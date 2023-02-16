@@ -1,0 +1,67 @@
+body{
+
+    background-image:url(window.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.container1 {
+ 
+}
+h3{
+    font-size: 60px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    color: white ;
+    text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+}
+.container2 div {
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#name{
+    font-size: 30px;
+}
+input {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+}
+.container1 button {
+
+    padding-left: 86px;
+    padding-right: 86px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+
+}
+.container2 button {
+
+}
+
+.container2 div {
+    border: 3px solid white;
+    margin-left: 186px;
+    margin-right: 186px;
+}
+
+
+::placeholder { 
+    color: white;
+    opacity: 1;
+  }
+
+  img{
+    border-radius: 10px;
+  }
